@@ -1,0 +1,28 @@
+name: 'PAUL KRUEGER '
+favicon: null
+layout_spectrum: 0.8179093291983008
+typography_spectrum: 0.7284290839452296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7211240325123072
+  lightness: 0.13954265927895904
+  saturation: 0.04520897241309285
+  rhythmicContrast: 0.9151727429125458
+purpose: []
